@@ -1,0 +1,30 @@
+0 0
+1 E2
+2 E2
+3 E2
+4 E2
+5 E2
+6 7F
+7 FF
+1B FF
+8 -1F
+9 12
+A -200
+B 200
+C 200
+-1
+1	2
+EE FF
+F1   C33
+BLANK LINE ON LINE 15
+error on line 21 should be ignored
+
+	
+  	
+
+
+
+
+	
+  
+
